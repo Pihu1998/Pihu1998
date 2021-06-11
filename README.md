@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Pranamika, I truly enjoy coding and my work revolves around my goal of developing software that improves people's lives.
+
+
 <!--
 **Pihu1998/Pihu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
